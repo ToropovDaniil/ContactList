@@ -2,7 +2,7 @@
 //  File.swift
 //  ContactList
 //
-//  Created by Елена Ажимова  on 28.10.2023.
+//  Created by Торопов Даниил  on 27.10.2023.
 //
 
 import Foundation
