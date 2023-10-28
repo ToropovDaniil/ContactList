@@ -22,6 +22,7 @@ final class ContactListViewController: UITableViewController {
     }
 }
 
+// MARK: - extension ContactListViewController
 extension ContactListViewController {
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {

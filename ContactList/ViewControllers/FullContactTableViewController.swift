@@ -11,7 +11,8 @@ final class FullContactTableViewController: UITableViewController {
     
     var person: [Person]!
 }
-    
+
+// MARK: - extension FullContactTableViewController
 extension FullContactTableViewController {
     
     override func numberOfSections(in tableView: UITableView) -> Int {

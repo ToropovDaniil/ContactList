@@ -13,7 +13,8 @@ final class PersonDataViewController: UIViewController {
 
     @IBOutlet weak var phoneLabel: UILabel!
     @IBOutlet weak var emailLabel: UILabel!
-    
+
+// MARK: - override func
     override func viewDidLoad() {
         super.viewDidLoad()
         
@@ -21,5 +22,4 @@ final class PersonDataViewController: UIViewController {
         phoneLabel.text = personalData.phone
         emailLabel.text = personalData.email
     }
-
 }
